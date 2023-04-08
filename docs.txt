@@ -1,0 +1,21 @@
+### 
+
+pipenv shell
+
+pipenv install
+
+
+##
+Beautiful Soup is a library that makes it easy to scrape information from web pages. 
+It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
+
+
+pipenv install beautifulsoup4
+
+
+## What is the role of a parser?
+Parser is a compiler that is used to break the data into smaller elements coming from lexical analysis phase. 
+A parser takes input in the form of sequence of tokens and produces output in the form of parse tree. 
+Parsing is of two types: top down parsing and bottom up parsing.
+
+pip install lxml
