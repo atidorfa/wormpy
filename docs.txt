@@ -1,11 +1,5 @@
-### 
 
-pipenv shell
-
-pipenv install
-
-
-##
+## Beautiful Soup 
 Beautiful Soup is a library that makes it easy to scrape information from web pages. 
 It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
 
@@ -18,4 +12,11 @@ Parser is a compiler that is used to break the data into smaller elements coming
 A parser takes input in the form of sequence of tokens and produces output in the form of parse tree. 
 Parsing is of two types: top down parsing and bottom up parsing.
 
+
+## lxml
+The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxslt. 
+It is unique in that it combines the speed and XML feature completeness of these libraries with the simplicity 
+of a native Python API, mostly compatible but superior to the well-known ElementTree API.
+
 pip install lxml
+
